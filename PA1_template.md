@@ -132,7 +132,7 @@ median(clean.steps.per.day)
 ## [1] 10766
 ```
 
-As you can see the mean was affected, but the median was not. 
+As you can see the mean and median were affected.  
 ## Are there differences in activity patterns between weekdays and weekends?
 Create a new factor variable in the dataset with two levels - "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.
 
